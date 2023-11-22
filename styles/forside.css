@@ -159,4 +159,24 @@
     color: #fff;
     background-color: #66617d;
     opacity: 0.60;
+
+    @media screen and (max-width: 600px) {
+    .nav-links {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .nav-links a {
+        padding: 10px;
+        text-align: center;
+    }
+
+    .hero-text {
+        font-size: 1.5em;
+    }
+
+    .body-of-text, .historie {
+        width: auto;
+        padding: 16px;
+    }
   }
