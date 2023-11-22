@@ -19,6 +19,9 @@ The primary goal of this project was to create an engaging and informative platf
 ## Reflections and Learning Outcomes
 Creating Freyr Vikinglære was both challenging and rewarding. It provided an opportunity to delve deep into the subject matter, honing my skills in web development and content creation. This project stands as a testament to the power of combining historical education with modern web technologies to create an engaging learning platform.
 
+## Future Developments
+While the current version of Freyr Vikinglære is complete, future updates may include:
+- [ ] Enhanced responsiveness for an improved mobile viewing experience.
 
 ## Acknowledgements
 This project would not have been possible without the rich history and stories of the Viking era that continue to inspire and intrigue to this day.
