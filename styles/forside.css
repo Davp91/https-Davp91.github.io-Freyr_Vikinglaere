@@ -159,6 +159,7 @@
     color: #fff;
     background-color: #66617d;
     opacity: 0.60;
+    }
 
     @media screen and (max-width: 600px) {
     .nav-links {
